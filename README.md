@@ -4,7 +4,9 @@
 
 
 <p align="center">
- <a href="https://vk.com/anikulsheev" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/cute-clipart/64/000000/vk-circled.png"  alt="Python" height="40" style="vertical-align:top; margin:4px"/> </a>
+ <a href="https://vk.com/anikulsheev" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/material-outlined/24/000000/vk-circled.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
+  </a>
  <a href="mailto:a.nikulsheev@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
