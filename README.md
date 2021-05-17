@@ -1,12 +1,9 @@
 <div>
-  <p class="nickname">CoolSheff</p>
+  <p>CoolSheff</p>
 </div>
 
-<style>
-.nickname{
-  font-family: Georgia, 'Times New Roman', Times, serif;
-}
-</style>
+![GitHub Logo](/logo.png)
+Format: ![Alt Text](url)
 ### Hi there 👋
 
 <!--
