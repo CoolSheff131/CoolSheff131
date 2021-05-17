@@ -6,6 +6,12 @@
 
 ## :man_student: I'm student of ISTU
 
+* :iphone: I'm android developer
+* :seedling: I'm looking forward in learning JS soon
+* 
+* :musical_note: Fun fact: Sometimes i'm playing on ukulele
+
+
 ## ✉️ Find me on:
 
 
@@ -29,6 +35,8 @@
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" style="vertical-align:top; margin:4px"/>
  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" height="40" style="vertical-align:top; margin:4px"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" alt="unity" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"  alt="html" height="40" style="vertical-align:top; margin:4px"/>
+ <img src="https://img.icons8.com/color/48/000000/css3.png"  alt="css" height="40" style="vertical-align:top; margin:4px"/>
 </p>
 
  ## :trophy: My Github Stats:
