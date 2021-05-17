@@ -1,5 +1,11 @@
 ![GitHub Logo](/logo.png)
 
+##  Hello! :wave: I'm CoolSheff
+
+![Visitor Count](https://profile-counter.glitch.me/CoolSheff131/count.svg)
+
+## :man_student: I'm student of ISTU
+
 ## ✉️ Find me on:
 
 
