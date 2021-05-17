@@ -2,7 +2,7 @@
 
 ##  Hello! :wave: I'm CoolSheff
 
-![Visitor Count](https://profile-counter.glitch.me/CoolSheff131/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 ## :man_student: I'm student of ISTU
 
