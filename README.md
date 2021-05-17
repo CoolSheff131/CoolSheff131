@@ -8,7 +8,6 @@
 
 * :iphone: I'm android developer
 * :seedling: I'm looking forward in learning JS soon
-* 
 * :musical_note: Fun fact: Sometimes i'm playing on ukulele
 
 
