@@ -1,7 +1,12 @@
 <div>
-  <p>CoolSheff</p>
+  <p class="nickname">CoolSheff</p>
 </div>
 
+<style>
+.nickname{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+</style>
 ### Hi there 👋
 
 <!--
